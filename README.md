@@ -1,5 +1,4 @@
-# store-control-mision-tic-2022-backend
-# Store-control-Mision-Tic-2022
+# Store-control-Mision-Tic-2022-BackEnd
 # 
 # Store Control es un Software de inventario para tiendas de barrio:
 # 
