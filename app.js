@@ -20,7 +20,7 @@ const app = express();
 
 const options = { useNewUrlParser: true, useUnifiedTopology: true };
 // const uri = "mongodb://localhost:27017/storecontroldb";
-const uri = "mongodb+srv://misiontic2022:xdKk82aY7dMmqs2s@store-control-mintic202.bmurp.mongodb.net/storecontroldb?retryWrites=true&w=majority";
+const uri = "mongodb+srv://misiontikc2022:xdKk82aY7dMmqs2s@store-control-mintic202.bmurp.mongodb.net/storecontroldb?retryWrites=true&w=majority";
 
 mongoose.connect(uri, options).then(
     () => { console.log('Conectado to DB') },
